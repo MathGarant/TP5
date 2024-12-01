@@ -1,0 +1,12 @@
+.liste{
+    background-color: #1c2a47;
+    padding: 5px;
+    min-height: 80vh;
+}
+
+.capsule {
+    background-color: powderblue;
+    border-radius: 2px;
+    margin-top: 10px;
+    height:33vh
+}
